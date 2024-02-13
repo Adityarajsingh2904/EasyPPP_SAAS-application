@@ -245,3 +245,4 @@
 2024-02-11 Implement dashboard layout
 2024-02-12 Connect to Stripe API
 2024-02-13 Add product form component
+2024-02-13 Fix bug in analytics chart
