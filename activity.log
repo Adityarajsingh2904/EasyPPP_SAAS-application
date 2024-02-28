@@ -268,3 +268,4 @@
 2024-02-26 Fix bug in analytics chart
 2024-02-26 Improve performance of dashboard
 2024-02-27 Update README with usage guide
+2024-02-28 Refactor authentication logic
