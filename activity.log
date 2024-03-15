@@ -290,3 +290,4 @@
 2024-03-13 Update README with usage guide
 2024-03-14 Refactor authentication logic
 2024-03-15 Add database schema with Drizzle
+2024-03-15 Optimize API endpoints
