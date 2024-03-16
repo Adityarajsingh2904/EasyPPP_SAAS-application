@@ -292,3 +292,4 @@
 2024-03-15 Add database schema with Drizzle
 2024-03-15 Optimize API endpoints
 2024-03-16 Clean up UI components
+2024-03-16 Add subscription logic
