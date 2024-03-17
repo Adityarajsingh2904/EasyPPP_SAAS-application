@@ -293,3 +293,4 @@
 2024-03-15 Optimize API endpoints
 2024-03-16 Clean up UI components
 2024-03-16 Add subscription logic
+2024-03-17 Fix type errors in config files
